@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "ha-noi-lake",
+    "title": "Hồ Gươm - Hoàn Kiếm",
+    "video": "https://www.youtube.com/watch?v=VIDEO_ID_HERE",
+    "videoType": "youtube",
+    "images": [
+      "/images/hn-1.jpg",
+      "/images/hn-2.jpg"
+    ],
+    "description": "Câu chuyện và bối cảnh: ... mô tả chi tiết cảnh, ánh sáng, cảm xúc."
+  },
+  {
+    "slug": "sunset-beach",
+    "title": "Sunset Beach",
+    "video": "/videos/sample-scene.mp4",
+    "videoType": "file",
+    "images": [
+      "/images/beach-1.jpg",
+      "/images/beach-2.jpg"
+    ],
+    "description": "Một chiều hoàng hôn trên bãi biển..."
+  }
+]
