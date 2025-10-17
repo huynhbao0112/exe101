@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 import Link from "next/link";
-import QRCode from "qrcode.react";
+import { QRCodeCanvas } from "qrcode.react";
 
 export default function Home({ scenes, origin }) {
   return (
@@ -11,8 +11,11 @@ export default function Home({ scenes, origin }) {
         {scenes.map((s) => {
           const url = `${origin}/scene/${s.slug}`;
           return (
-            <div key={s.slug} style={{ display: "flex", gap: 20, alignItems: "center" }}>
-              <QRCode value={url} size={96} />
+            <div
+              key={s.slug}
+              style={{ display: "flex", gap: 20, alignItems: "center" }}
+            >
+              <QRCodeCanvas value={url} size={96} />
               <div>
                 <h3 style={{ margin: 0 }}>{s.title}</h3>
                 <Link href={`/scene/${s.slug}`}>Open page</Link>
