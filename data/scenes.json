@@ -1,12 +1,102 @@
 [
   {
-    "slug": "ha-noi-lake",
-    "title": "Hồ Gươm - Hoàn Kiếm",
+    "slug": "nen-ho-hoan-kiem",
+    "title": "Nến Thơm Hồ Hoàn Kiếm – Hương Sen Thanh Khiết",
     "videoType": "youtube",
-    "video": "https://youtu.be/OBYZICO9OvA",
+    "video": "https://www.youtube.com/watch?v=bInTLGktT0M",
+    "buyLink": "https://shopee.vn/nen-ho-hoan-kiem",
+    "description": "Lấy cảm hứng từ hồ Hoàn Kiếm – trái tim của Hà Nội, nến thơm mang hương sen thanh khiết, tượng trưng cho sự bình yên và tinh tế của đất Tràng An.",
     "items": [
-      { "src": "/images/hn-1.jpg", "title": "Tháp Rùa", "desc": "Mô tả cho Tháp Rùa..." },
-      { "src": "/images/hn-2.jpg", "title": "Cầu Thê Húc", "desc": "Mô tả cho Cầu Thê Húc..." }
+      {
+        "src": "/images/hohoankiem-1.jpg",
+        "title": "Khung cảnh Hồ Hoàn Kiếm",
+        "desc": "Biểu tượng văn hóa của Thủ đô, nơi truyền cảm hứng cho dòng nến sen thanh khiết."
+      },
+      {
+        "src": "/images/hohoankiem-2.jpg",
+        "title": "Nến Hương Sen Hà Nội",
+        "desc": "Hương thơm nhẹ nhàng, phù hợp không gian thiền định và thư giãn buổi tối."
+      }
+    ]
+  },
+  {
+    "slug": "nen-cho-noi-cai-rang",
+    "title": "Nến Thơm Chợ Nổi Cái Răng – Hương Dừa Miền Sông Nước",
+    "videoType": "youtube",
+    "video": "https://www.youtube.com/embed/Yi5ofNj1IJE",
+    "buyLink": "https://shopee.vn/nen-cho-noi-cai-rang",
+    "description": "Lấy cảm hứng từ vùng sông nước miền Tây, nến thơm mang hương dừa ngọt ngào – mộc mạc và tươi mát như cuộc sống nơi chợ nổi Cái Răng.",
+    "items": [
+      {
+        "src": "/images/cairang-1.jpg",
+        "title": "Chợ Nổi Cái Răng",
+        "desc": "Khi bình minh vừa chạm lên mặt nước, hàng trăm chiếc ghe lớn nhỏ bắt đầu tấp nập neo đậu giữa lòng sông Cần Thơ. Tiếng máy nổ, tiếng cười nói, tiếng rao hàng vang lên hòa vào mùi thơm của cà phê và hủ tiếu nóng hổi – tất cả tạo nên một bản giao hưởng sông nước đầy sức sống. Đó chính là chợ nổi Cái Răng, linh hồn của vùng đồng bằng sông Cửu Long."
+      },
+      {
+        "src": "/images/nenchonoicairang.jpg",
+        "title": "Nến Hương Tinh Hoa Miệt Vườn",
+        "desc": "Tái hiện không khí chợ nổi với hương cam chanh, dứa tươi mát, hòa quyện cùng vị ngọt của xoài, trái cây nhiệt đới và chút ấm áp của cà phê rang. Lớp hương cuối thư thái từ gỗ và sông nước, kết hợp bấc gỗ kêu tí tách, mang lại trải nghiệm đa giác quan."
+      }
+    ]
+  },
+  {
+    "slug": "nen-ben-ninh-kieu",
+    "title": "Nến Thơm Bến Ninh Kiều – Hương Cà Phê Đậm Đà",
+    "videoType": "youtube",
+    "video": "https://www.youtube.com/watch?v=pEwtQe3tTPA",
+    "buyLink": "https://shopee.vn/nen-ben-ninh-kieu",
+    "description": "Nến thơm lấy cảm hứng từ vẻ đẹp lung linh của Bến Ninh Kiều – biểu tượng của Cần Thơ, mang hương cà phê đậm đà, ấm áp như tình người miền Tây.",
+    "items": [
+      {
+        "src": "/images/ninhkieu-1.jpg",
+        "title": "Bến Ninh Kiều về đêm",
+        "desc": "Khung cảnh lung linh bên dòng sông Hậu, gợi cảm giác bình yên."
+      },
+      {
+        "src": "/images/ninhkieu-2.jpg",
+        "title": "Nến Hương Cà Phê",
+        "desc": "Hương cà phê rang xay tự nhiên, mang lại cảm giác tỉnh táo, thư giãn."
+      }
+    ]
+  },
+  {
+    "slug": "nen-phu-quoc",
+    "title": "Nến Thơm Phú Quốc – Hương Biển Mặn Mòi",
+    "videoType": "youtube",
+    "video": "https://www.youtube.com/watch?v=ZkRj4QTPa1g",
+    "buyLink": "https://shopee.vn/nen-phu-quoc",
+    "description": "Lấy cảm hứng từ hòn đảo ngọc Phú Quốc – nến thơm lan tỏa hương biển mặn mòi kết hợp với tinh dầu cam chanh, mang cảm giác tươi mát và tự do.",
+    "items": [
+      {
+        "src": "/images/phuquoc-1.jpg",
+        "title": "Biển Phú Quốc",
+        "desc": "Vẻ đẹp hoang sơ, quyến rũ của đảo ngọc Việt Nam."
+      },
+      {
+        "src": "/images/phuquoc-2.jpg",
+        "title": "Nến Hương Biển",
+        "desc": "Tái hiện hương vị biển cả, tươi mát và sảng khoái."
+      }
+    ]
+  },
+  {
+    "slug": "nen-sapa",
+    "title": "Nến Thơm Sa Pa – Hương Thảo Mộc Núi Rừng",
+    "videoType": "youtube",
+    "video": "https://www.youtube.com/watch?v=wLhdVbHAX8s",
+    "buyLink": "https://shopee.vn/nen-sapa",
+    "description": "Nến thơm Sa Pa gợi nhớ khí hậu se lạnh vùng cao, hòa quyện hương thảo mộc và bạc hà, mang lại cảm giác trong lành, tươi mới.",
+    "items": [
+      {
+        "src": "/images/sapa-1.jpg",
+        "title": "Thị trấn Sa Pa",
+        "desc": "Nơi giao hòa giữa mây trời và núi rừng Tây Bắc."
+      },
+      {
+        "src": "/images/sapa-2.jpg",
+        "title": "Nến Hương Thảo Mộc",
+        "desc": "Hương thơm tự nhiên từ bạc hà và thảo dược rừng, giúp thư giãn tinh thần."
+      }
     ]
   }
 ]
